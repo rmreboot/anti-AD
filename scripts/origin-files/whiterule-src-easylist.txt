@@ -17,7 +17,6 @@
 @@||85tube.com^$generichide
 @@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
-@@||9zvip.net^$elemhide
 @@||aboluowang.com^$generichide
 @@||accounts.google.com^$generichide
 @@||accounts.google.com^$popup
@@ -339,7 +338,6 @@
 @@||netflix.com^$generichide
 @@||nfl.com^$generichide
 @@||niotv.com^$generichide
-@@||nobugin.com^$generichide
 @@||nodkey.xyz^$genericblock,generichide
 @@||nodkey.xyz^$generichide
 @@||notafree.host^$generichide
@@ -379,7 +377,6 @@
 @@||raenonx.cc^$generichide
 @@||receiveasms.com^$generichide
 @@||reddit.com^$generichide
-@@||redian.news^$generichide
 @@||renfei.net^$generichide
 @@||restream.io^$generichide
 @@||riverside.fm^$generichide

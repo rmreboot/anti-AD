@@ -10,7 +10,6 @@
 ||aff*.kolektiva.net^
 ||ap*.jj20.com^
 ||ap*.pl520.com^
-||asd8900.oss-*.aliyuncs.com^
 ||at*.doubanio.com^
 ||ax.*.ifeng.com^
 ||bdcpro*.techweb.com.cn^
@@ -39,7 +38,6 @@
 ||itc.*^prod=ad&
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
-||ky891.oss-*.aliyuncs.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||minero-proxy-*.sh^$third-party
@@ -52,7 +50,6 @@
 ||same*.stockstar.com^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
-||ssh.*.com^*!$script,third-party
 ||stat.*.v-56.com^
 ||static*.365inews.com^
 ||stats*.credit-cooperatif.coop^
@@ -61,13 +58,11 @@
 ||toujing*.top^
 ||tracker*.qcloud.com^
 ||tracking*.euroads.fi^$third-party
-||tupian888.*.bcebos.com^
 ||tw-726620180914.*.run.app^
 ||uc*.atobo.com^
 ||um*.com^$third-party
 ||union*.365inews.com^
 ||util-*.simply-hentai.com^
-||vns86.oss-*.aliyuncs.com^
 ||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xscp0*xq.com^$script,xmlhttprequest,third-party
 ||ya*.dwstatic.com^
