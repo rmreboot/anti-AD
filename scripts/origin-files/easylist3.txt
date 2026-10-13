@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202610102151
+! Version: 202610132256
 ! Title: Fanboy's Annoyance List
-! Last modified: 10 Oct 2026 21:51 UTC
+! Last modified: 13 Oct 2026 22:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: aec4041a8a664813b108b95af42af178dc58645c
+! Commit: 7c7b8ac36942512ae22149019199819e5a91a5cf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2309,7 +2309,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.go-to-top-button
 ##.go-to-top-desktop
 ##.go-to-top-page
-##.go-top
 ##.go-top-button
 ##.go-top-footer-btn
 ##.go-top-wrapper
@@ -29743,6 +29742,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||pushprofit.ru^$third-party
 ||pushprospush.com^$third-party
 ||pushpushgo.com^$third-party
+||pushsage.com^$third-party
 ||pushstack.it^$third-party
 ||pushtide.com^$third-party
 ||pushvip.ru^$third-party
@@ -32849,6 +32849,7 @@ livemint.com###openInApp
 geeksforgeeks.org###openInApp-modal
 timesnownews.com###openin-app
 playbite.com###pb-cta
+zeta-ai.io###portal-container.fixed.z-\[70\]
 linkedin.com###protip-capsule
 qlover.jp###root > .jss128[style=""]
 cookpad.com###ru-promotion-banner
@@ -33117,6 +33118,7 @@ airtelkenya.com##.modal-content-popup
 speedtest.net##.modal-overlay
 moovitapp.com##.moovit-banner
 m.bilibili.com##.mplayer-widescreen-callapp
+motitown.com##.mt-sticky
 google.*##.nWi0wf.kDTz5c
 audacy.com##.national-footer__app-stores
 skynews.com.au##.nca-et-rendered
@@ -37369,6 +37371,7 @@ informationisbeautiful.net##.iib-viz-section--share
 tomshardware.com##.image-widthsetter[style="max-width:676px;"]
 picsart.com##.image-with-overlay-pinterest-0-2-76
 dailymail.co.uk##.image_strapline_slant_wocc
+presstv.co.uk##.in-sidebar
 olympics.com##.indexstyles__SocialMedia-sc-1np4juy-1
 theinertia.com##.inertia-social-ad
 inews.co.uk##.inews__footer__menus__icons
@@ -38154,6 +38157,7 @@ videocardz.com##.vc-google-icon
 apa.org##.vertical-icon-bar
 videogameschronicle.com##.vgc-branding__container > ul
 videogameschronicle.com##.vgc-socialshare
+presstv.co.uk##.video-dark-social
 ms.now##.video-details__social-share-menu
 healthday.com##.video-story-m_share__d27z7
 natlawreview.com##.view-footer
@@ -41722,6 +41726,7 @@ patreon.com##div[data-tag="cookie-disclosure"]
 app.lickd.co##div[data-test-app-cookie-notification]
 pinnacle.com##div[data-test-id="Cookie-PolicyBanner"]
 lego.com##div[data-test="age-gate-disclaimer"]
+deeppersonality.app##div[data-testid="analytics-consent-banner"]
 metadefender.com##div[data-testid="banner"]:has(a[href="https://www.opswat.com/legal/cookies-policy"])
 athenegpt.ai,betterhelp.com,brilliant.org,regain.us##div[data-testid="cookie-banner"]
 ssense.com##div[data-testid="cookie-banner-overlay"]
@@ -41894,7 +41899,7 @@ account.bhvr.com,advancedsciencenews.com,americastestkitchen.com,bitwarden.com,l
 ! ! .cmp-notification-action-panel
 aia.com,aia.com.kh,aia.com.my,aia.com.ph,aia.com.sg,bpi-aia.com.ph,www.aia.co.th##.cmp-notification-action-panel
 ! ! #tarteaucitronRoot
-ahjucaf.org,apf-francophonie.org,arp.pl,banquedeluxembourg.com,bayonne.port.fr,bourgogne-wines.com,burgundy-tourism.com,campusfrance.org,chablis-wines.com,chartediversite.lu,chequeenergie.gouv.fr,coldwellbanker.fr,competence.lu,cyprus-weather.com,diplomatie.gouv.fr,dupuis.com,emrlocal.com,fgirl.ch,forvia.com,guy-hoquet.com,havas.com,his-izz.be,infogreen.lu,inria.fr,ip-paris.fr,kameleoon.com,klepierre.it,klimabuendnis.lu,lassuranceretraite.fr,lechegaza.com,notre-dame-de-paris.culture.gouv.fr,openedition.org,palais.mc,plazario2.com,pompes-direct.com,portrevel.com,rosenbauer.com,rsf.org,sante.fr,scoop.it,smeg.mc,space-eye.ch,sprecher-automation.com,tenet.ac.za,tuttonatale.it,uclouvain.be###tarteaucitronRoot
+ahjucaf.org,apf-francophonie.org,arp.pl,banquedeluxembourg.com,bayonne.port.fr,bourgogne-wines.com,burgundy-tourism.com,campusfrance.org,chablis-wines.com,chartediversite.lu,chequeenergie.gouv.fr,coldwellbanker.fr,competence.lu,cottagesincanada.com,cyprus-weather.com,diplomatie.gouv.fr,dupuis.com,emrlocal.com,fgirl.ch,forvia.com,guy-hoquet.com,havas.com,his-izz.be,infogreen.lu,inria.fr,ip-paris.fr,kameleoon.com,klepierre.it,klimabuendnis.lu,lassuranceretraite.fr,lechegaza.com,notre-dame-de-paris.culture.gouv.fr,openedition.org,palais.mc,plazario2.com,pompes-direct.com,portrevel.com,rosenbauer.com,rsf.org,sante.fr,scoop.it,smeg.mc,space-eye.ch,sprecher-automation.com,tenet.ac.za,tuttonatale.it,uclouvain.be###tarteaucitronRoot
 ! ! .popup-cookies
 medicalxpress.com,phys.org,techxplore.com,vitalia.pl##.popup-cookies
 ! ! #ccc
@@ -41909,7 +41914,7 @@ laportecontemporaine.shop,meesterslijpers.nl###ism-consent-box
 ! ! .cookie-alert
 baden-wuerttemberg.de,cdek.ru,de.vitamin360.com,elektrikstore.hu,empresasnegocios.pt,kaveverzum.hu,leumi.co.il,magzsola.hu,pushwoosh.com,rzd.ru,salon24.pl,scigacz.pl,shoei-helmets.com,suwalki24.pl,thebatteryshop.eu,tipik.hu##.cookie-alert
 ! ! .amgdprjs-bar-template
-ctt.de,fabricsandpapers.com,groomershop.pl,ironmaxx.de,johnsonsjewellers.co.uk,kazar.com,landyschemist.com,mikimoto.com,mikimotoamerica.com,nkon.nl,plaidonline.com,scienceinsport.com,sparkfun.com,theraband.com##.amgdprjs-bar-template
+ctt.de,fabricsandpapers.com,groomershop.pl,ironmaxx.de,johnsonsjewellers.co.uk,kazar.com,landyschemist.com,mikimoto.com,mikimotoamerica.com,nkon.nl,plaidonline.com,scienceinsport.com,sparkfun.com,theraband.com,vortexoptics.com##.amgdprjs-bar-template
 ! ! .cookie-notification
 carletonvillemall.co.za,ccdcoe.org,cosmomall.co.za,degoo.com,e-recharge.net,energypolicy.columbia.edu,eurotradefair.nl,gardensbythebay.com.sg,greatwolf.com,iahsap.com,informationmagazine.com,ivry-dairy.co.il,jobs.tuwien.ac.at,kguttag.com,kukawa.co.jp,leitor.net,lifestylecrossing.co.za,mangalivre.net,mel.fm,netshoes.com.br,ngenix.net,palmscentre.co.za,pnp.co.za,prostokvashino.ru,rabbitscams.sex,riverwalkcentre.co.za,schofieldwatchcompany.com,shoestock.com.br,spursteakranches.com,supercheapauto.co.nz,supercheapauto.com.au,supernovabih.ba,theatrium.co.za,theheasman.com,thestartrac.com,victoryparkcentre.co.za,vumatel.co.za,wretox.com,zattini.com.br,zheleza.net,zorrolightersshop.com##.cookie-notification
 ! ! .cookie-alert-show
@@ -42115,7 +42120,7 @@ biblio.co.uk,comfortclick.com,discountoffice.nl,nowemiasteczko.pl,ornox.fr,polim
 ! ! .banner
 apgbio.com,cheddar.com,co-operative.coop,couchsurfing.com,cyscale.com,diagnosticquestions.com,fluidra.ba,haymarketbooks.org,heimat-info.de,human-facts.com,incyte.jp,jumia.ci,jumia.co.ke,jumia.com.dz,jumia.com.eg,jumia.com.gh,jumia.com.ng,jumia.com.tn,jumia.ma,jumia.sn,jumia.ug,kaleido.ai,modrinth.com,oceanmata.com,pluralsight.com,reasonstudios.com,securitylab.github.com,subaru.be,techint.com,tecpetrol.com,trainsplit.com,usatoday.com,versobooks.com##.banner
 ! ! .notice
-brightree.com,cgtrader.com,configserverfirewall.com,delo.si,dialight.com,evgo.com,fcc-fac.ca,foreground.com.au,fritchy.com,hilltopads.com,instreamatic.com,keenfootwear.com,medicalxpress.com,mygwork.com,outsideonline.com,pajilleros.com,phys.org,pokemon-trainer.com,revolver.news,snbforums.com,socialmediagirls.com,support.therealnews.com,techxplore.com,thresholdtrailseries.com,ubuntu18.com,vialibri.net,vonmoos-luzern.ch##.notice
+brightree.com,cgtrader.com,configserverfirewall.com,delo.si,dialight.com,evgo.com,fcc-fac.ca,foreground.com.au,fritchy.com,hilltopads.com,instreamatic.com,keenfootwear.com,medicalxpress.com,mygwork.com,outsideonline.com,pajilleros.com,phys.org,pokemon-trainer.com,respawn.media,revolver.news,snbforums.com,socialmediagirls.com,support.therealnews.com,techxplore.com,thresholdtrailseries.com,ubuntu18.com,vialibri.net,vonmoos-luzern.ch##.notice
 ! ! GDPRConsent
 cambash.com,massivecams.com,nordforme.org,nordvpn.com,streamate.com##[class^="GDPRConsent"]
 ! ! .modal-overlay
@@ -48538,6 +48543,7 @@ nspk.ru##.modals-cookies
 c-o-k.ru##.msg-text
 eldorado.ru##.nK
 nbki.ru##.newcookies
+our-news.ru##.nn-cookie-bar
 peers.tv##.notice-terms
 bubble.ru##.notifications
 premier.one##.notifications-container
@@ -48685,6 +48691,7 @@ id.sber.ru##div[data-testid="cookie_banner"]
 detmir.ru##div[data-testid="notification"]
 7dach.ru##div[style^="background-color:#fff3cd; color: #856404;"]
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
+pikabu.ru##div[style^="position: fixed; left: 0px;"]
 znayka.cc##div[style^="position:fixed;z-index:9999;left:18px;bottom:18px;"]
 delimobil.ru##footer
 lenta.com##lu-cookie-agree
