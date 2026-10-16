@@ -10,12 +10,9 @@
 @@||4spaces.org^$generichide
 @@||519.best^$generichide
 @@||520call.me^$generichide
-@@||5278.cool^$generichide
 @@||58b.tv^$generichide
 @@||5qidgde.com^$generichide
 @@||85po.com^$generichide
-@@||85tube.com^$generichide
-@@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
 @@||aboluowang.com^$generichide
 @@||accounts.google.com^$generichide
@@ -162,7 +159,6 @@
 @@||contacts.google.com^$generichide
 @@||content.ingbank.pl^
 @@||cookielawinfo.com^$~third-party
-@@||coolinet.com^$generichide
 @@||crackedresource.com^$generichide
 @@||creaders.net^$generichide
 @@||curiositystream.com^$generichide
@@ -276,11 +272,9 @@
 @@||juduo.cc^$generichide
 @@||kantie.org^$generichide
 @@||kejilion.pro^$generichide
-@@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
 @@||laosu.cf^$generichide
 @@||laosu.tech^$generichide
-@@||laotiesao.vip^$generichide
 @@||ldxinyong.com^$generichide
 @@||league-funny.com^$script,~third-party
 @@||lemon.baidu.com^
@@ -334,7 +328,6 @@
 @@||namechk.com^$generichide
 @@||nebula.tv^$generichide
 @@||neoseeker.com^$generichide
-@@||netflav.com^$generichide
 @@||netflix.com^$generichide
 @@||nfl.com^$generichide
 @@||niotv.com^$generichide
@@ -345,7 +338,6 @@
 @@||notion.so^$generichide
 @@||oiihk.com^$generichide
 @@||oisd.nl^$generichide
-@@||olgame.tw^$generichide
 @@||ondemand.sas.com^$subdocument
 @@||onedrive.live.com^$generichide
 @@||open.spotify.com^$generichide
@@ -388,7 +380,6 @@
 @@||sciencechannel.com^$generichide
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
-@@||seselah.com^$generichide
 @@||seyise8.com^$generichide
 @@||seyy66.space^$generichide
 @@||sgtm.farmasave.it^$script,~third-party
@@ -428,7 +419,6 @@
 @@||testufo.com^$generichide
 @@||th-sjy.com^$generichide
 @@||thefreedictionary.com^$generichide
-@@||thisav.com^$generichide
 @@||tidal.com^$generichide
 @@||tiktok.com^$generichide
 @@||tlc.com^$generichide
