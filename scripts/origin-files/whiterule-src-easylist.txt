@@ -405,7 +405,6 @@
 @@||startpage.com^$generichide
 @@||stats.britishbaseball.org.uk^
 @@||sto520.com^$generichide
-@@||stream4free.live^$generichide
 @@||succeedscene.com^$script
 @@||switching.software^$generichide
 @@||swjoy.com^
@@ -438,7 +437,6 @@
 @@||udp2p.com^$generichide
 @@||ui.ads.microsoft.com^$~third-party
 @@||uiadmin.net^$generichide
-@@||up-load.io^$generichide
 @@||upxin.net^$generichide
 @@||uukanshu.com^$generichide
 @@||v2cross.com^$generichide
