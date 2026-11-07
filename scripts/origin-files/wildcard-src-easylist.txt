@@ -36,7 +36,6 @@
 ||impservice*.youdao.com^
 ||itc.*^prod=ad&
 ||ja*.gamersky.com^
-||js*.abolezi.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
 ||minero-proxy-*.sh^$third-party
