@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611132343
+! Version: 202611170154
 ! Title: Fanboy's Annoyance List
-! Last modified: 13 Nov 2026 23:43 UTC
+! Last modified: 17 Nov 2026 01:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 68f61a126d5d799802fd60b28c4914006b71dcd7
+! Commit: 2c4181aef931a0b8ef9cdd65574b2c1c4111441d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -13776,6 +13776,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##a[href^="https://www.pinterest.com/pin/create/link/"]
 ##a[href^="https://www.reddit.com/submit?"]
 ##a[href^="https://x.com/intent/follow?screen_name="]
+##a[href^="https://x.com/intent/tweet?"]
 ##a[href^="https://x.com/share?"]
 ##a[href^="whatsapp://send?text="]
 ##a[rel="share-on-facebook"]
@@ -30519,6 +30520,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ||chan.sankakucomplex.com/javascripts/sp/s-new.js
 ||chemistwarehouse.com.au/edm_collector.html
 ||chimpstatic.com/mcjs-connected/$script,domain=stilldrinking.org
+||dragonforms.com^$domain=freightwaves.com
 ||dw.com/webapi/iframes/widget/
 ||electricfencing.co.uk/prnewsletterpopup/
 ||ewnews.com/wp-content/themes/dw-focus/newsletter.png
@@ -33991,6 +33993,7 @@ aibusiness.com,gamedeveloper.com,itprotoday.com##.SubscribeBannerTopicPage
 riverbender.com##.SubscribeBox
 patch.com##.SubscribeCTABlurb_SubscribeCTABlurb__M_Azu
 nordvpn.com##.SubscribeSection
+timesnownews.com##.SubscribeWithEmail_subscribe-body__UQfW_
 otcmarkets.com##.Subscribe__Subscribe___2hrcO
 hoorayteams.com##.Subscribe_subscribe__fsS5P
 naturalnews.com##.Subscription-Article-Box
@@ -34007,7 +34010,6 @@ bustle.com##.VrW.j1J
 wbur.org##.WallOfLinks_actions__cAUTE
 cnbc.com##.WildcardEmbed-wrapper
 latimes.com##.\@container\/newsletter-module
-timesnownews.com##._37K4.RUE6
 80.lv##._3Gr3h
 gulfnews.com##._4EXSh
 thelogic.co##.__form-wrapper
@@ -35422,6 +35424,7 @@ tweaktown.com##.right_subscribe
 reviewjournal.com##.rj-newsletter-signup
 therealmediang.com##.rm-newsletter-banner
 aol.com##.rmp-module__newsletter-signup
+ransomnews.com##.rn-scp
 religionnews.com##.rns-article-signup-blurb-wrap
 religionnews.com##.rns-immigration-popup-overlay
 religionnews.com##.rns-newsletter-embed-content
@@ -35992,6 +35995,7 @@ minds.com##M-MODAL
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com##[aria-label*="newsletter"]
 mashable.com##[aria-label="Newsletter Sign-Up"]
 usatoday.com##[aria-label="Newsletter signup form"]
+piratewires.com##[aria-label="Subscribe"]
 rnz.co.nz##[aria-labelledby="election-newsletter-promo-heading-_r_3_"]
 github.com##[aria-labelledby="subscribe-to-newsletter"]
 therealdeal.com##[class*="Newsletter"]
@@ -36593,7 +36597,6 @@ digitaltrends.com###menu-2021-social
 lifezette.com,revolver.news###menu-social-buttons-header
 truthdig.com###menu-social-navigation-1
 notalwaysright.com###meta_share
-timesnownews.com###native-share
 thefader.com###new_socials_bottom
 novinite.com###news_share
 dezeen.com###newsletter-form
@@ -36758,6 +36761,7 @@ cbssports.com##.SocialIconsBar
 suntimes.com,tageblatt.de##.SocialLink
 complex.com##.SocialLinks__SocialButtonsContainer-sc-vif6xs-0
 itprotoday.com##.SocialShare
+timesnownews.com##.SocialShare_followrow__SHotd
 worldathletics.org##.SocialShare_root__3h83X
 sf.gazetteer.co,streetsblog.org##.SocialSharing_socialSharingItems__wdJu8
 aleteia.org##.Socials_social_links__T3MJv
@@ -36766,6 +36770,7 @@ indiatoday.in##.Story_prefergogl__Nw2MQ
 indiatoday.in##.Story_whatsapp_channel__6xdtB
 iranintl.com##.URLShareDialog-module-scss-module__vBXZPq__share
 gulfnews.com##.Ub-Cr
+carexpert.co.nz##._19v7sel2
 toptal.com##._1oxEOBHC
 grammarly.com##._3fq8S-container
 pixivision.net##._floated-bottom-bar
@@ -39847,6 +39852,7 @@ headforpoints.com,sudlisboa.com##.ancr-pos-bottom
 playngo.com##.anim-banner-enter-done
 mnetplus.world##.anim__cookie__box-bg
 giraffe360.com##.animate-privacy-policy-show
+alpian.com##.animate-slide-up-cookies-banner
 equiti.com,wowhead.com##.announcement
 civilsociety.co.uk##.announcement-banner
 commsec.com.au,soundcloud.com##.announcements
@@ -41306,6 +41312,7 @@ mrgugu.com##.rhvQa
 ricola.com##.ricola-cookie-info
 82-0.com##.right-4.fixed
 haikuanimator.com##.rmq-d60b84d6
+ransomnews.com##.rn-cookie-consent
 southwestcoastpath.org.uk##.roar-body
 repovive.com##.rounded-lg.max-w-3xl
 smallpdf.com##.rplgd-0
@@ -41608,7 +41615,7 @@ askethos.com,hintoai.com,k2think.ai,lemonade.com##[aria-describedby="cookie-cons
 ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 anexia.com##[aria-describedby="privacy-settings-description"]
 kstp.com,lucidchart.com,scribd.com,whec.com##[aria-label="Cookie Consent Banner"]
-1password.com,shirtspace.com##[aria-label="Cookie Consent"]
+1password.com,quantpedia.com,shirtspace.com##[aria-label="Cookie Consent"]
 pretense.ai##[aria-label="Cookie and privacy notice"]
 dictionary.cambridge.org,lovable.dev##[aria-label="Cookie banner"]
 the-fence.com##[aria-label="Cookie choices"]
@@ -41627,7 +41634,7 @@ perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 kantan.news##[aria-label="Çerezler ve Gizlilik"]
 mangooutlet.com##[aria-labelledby="cbanner-title"]
-app.wooclap.com,doctoralia.com.mx,eyesift.com,iranintl.com,stopkillinggames.com##[aria-labelledby="cookie-banner-title"]
+app.wooclap.com,doctoralia.com.mx,eyesift.com,iranintl.com,piknova.com,stopkillinggames.com##[aria-labelledby="cookie-banner-title"]
 pandastack.ai##[aria-labelledby="cookie-consent-title"]
 footium.club##[aria-labelledby="cookieConsentHeading"]
 weedmaps.com##[aria-labelledby="notification_label"]
@@ -41841,6 +41848,7 @@ pinnacle.com##div[data-test-id="Cookie-PolicyBanner"]
 lego.com##div[data-test="age-gate-disclaimer"]
 deeppersonality.app##div[data-testid="analytics-consent-banner"]
 metadefender.com##div[data-testid="banner"]:has(a[href="https://www.opswat.com/legal/cookies-policy"])
+context.dev##div[data-testid="consent-banner-root"]
 athenegpt.ai,betterhelp.com,brilliant.org,regain.us##div[data-testid="cookie-banner"]
 ssense.com##div[data-testid="cookie-banner-overlay"]
 expo.dev,ssense.com##div[data-testid="cookie-banner-root"]
@@ -42126,7 +42134,7 @@ batteryequivalents.com,camara.net,culturagiapponese.it,imunify360.com,instituto-
 ! ! favoptic.*
 favoptic.fi,favoptic.no##.cookie_consent_alert
 ! ! #cookiePolicy
-absa.co.za,bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.com,librariaonline.ro,sciencelink.net,support.tresorit.com,thegrocer.co.uk,torrents.ws,wifikaernten.at,worldfishing.net###cookiePolicy
+absa.co.za,bdonline.co.uk,eutelsat.com,fieldsofskibbereen.ie,fullraces.com,gamesontvtoday.com,librariaonline.ro,revistas.uptc.edu.co,sciencelink.net,support.tresorit.com,thegrocer.co.uk,torrents.ws,wifikaernten.at,worldfishing.net###cookiePolicy
 ! ! .custom-consent
 emerald-heizijde.be,rivo.be,upperleft.be,vooruitzicht.be##.custom-consent
 ! ! #CookiePolicy
@@ -42687,7 +42695,7 @@ airlineratings.com,annuaire-du-ecommerce.com,blog.smithsecurity.biz,bodegacatsof
 ! ! .bottom-40
 netnoticias.mx##.bottom-40
 ! ! .bottom-3
-accu-components.com,accu.co.uk,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
+accu-components.com,accu.co.uk,clashreport.com,faivelo.com,knock.app,smartreplypro.ai##.bottom-3
 ! ! .bottom-12
 fotoregistro.com.br,timnews.com.br##.bottom-12
 ! ! .bottom-14
@@ -48593,6 +48601,7 @@ marchgroup.ru,severstal-avia.ru##.cbar
 afisha.timepad.ru##.ccookie-consent
 chance.ru##.check_cookie
 cardsmobile.ru##.cm-m_c-w
+c-o-k.ru##.cok-cookie
 web-axioma.ru##.confform
 aquagrunt.ru##.confidentalInfo
 atlant-minsk.ru##.confirm-panel
@@ -50445,7 +50454,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||consent.truste.com/notice$domain=$domain=fortune.com|hsl.fi|philips-hue.com|proximus.be|tmz.com|weather.com
 @@||consentcdn.cookiebot.com/consentconfig/$xmlhttprequest,domain=asket.com
 @@||consentmanager.mgr.consensu.org/delivery/$stylesheet,xmlhttprequest,domain=sourceforge.net
-@@||consentmanager.net^$script,subdocument,domain=abendblatt.de|bauhaus.se|bike-magazin.de|bluray-disc.de|cyberport.at|cyberport.de|dailybuzz.nl|donaukurier.de|dw.com|eat.de|empfohlen.de|eventim.ro|lippu.fi|mediaite.com|morgenpost.de|nius.de|nwzonline.de|play3.de|racingnews365.com|spar.hu|teslamag.de|test.de|testerup.com|vaterland.li|vijesti.hrt.hr|vkmag.com|webfail.com|winfuture.de
+@@||consentmanager.net^$script,subdocument,domain=abendblatt.de|bauhaus.se|bike-magazin.de|bluray-disc.de|cyberport.at|cyberport.de|dailybuzz.nl|donaukurier.de|dw.com|eat.de|empfohlen.de|eventim.ro|lippu.fi|mediaite.com|morgenpost.de|nius.de|nwzonline.de|play3.de|racingnews365.com|spar.hu|teslamag.de|test.de|testerup.com|vaterland.li|vijesti.hrt.hr|vkmag.com|watson.ch|webfail.com|winfuture.de
 @@||consilium.europa.eu/assets/chunk/cookie-banner.js$~third-party
 @@||cookie-consent.ingatlancdn.com^$script,domain=immobilienungarn.net|ingatlan.com|realestatehungary.hu
 @@||cookie-script.com^$domain=lr-shop-direkt.de|swiss-sport.tv
