@@ -500,6 +500,9 @@
 127.0.0.1 nend.net
 127.0.0.1 netshelter.net
 127.0.0.1 nexage.com
+127.0.0.1 openx.net
+127.0.0.1 openxenterprise.com
+127.0.0.1 openxmarket.asia
 127.0.0.1 owneriq.net
 127.0.0.1 pixels.asia
 127.0.0.1 plista.com

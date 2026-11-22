@@ -8104,6 +8104,9 @@
 127.0.0.1 openrcv.baidu.com
 127.0.0.1 openstat.net
 127.0.0.1 openstorage.ad.cmvideo.cn
+127.0.0.1 openx.net
+127.0.0.1 openxenterprise.com
+127.0.0.1 openxmarket.asia
 127.0.0.1 opgirl-tmp.adbxb.cn
 127.0.0.1 oppo.yidianzixun.com
 127.0.0.1 opsm.qflwh.cn
